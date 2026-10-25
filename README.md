@@ -1,11 +1,10 @@
-# DSA-for-Mechanical
-Course notes, code, and resources for Data Structures &amp; Algorithms (Mechanical).
 # DSA for Mechanical Engineers (23UCOMDL2301)
 
-Welcome! This repository contains all course materials, notes, and lab code for Data Structures & Algorithms for S.Y. B.Tech Mechanical Engineering.
+Welcome! This repository contains all course presentations, code, and lab resources for Data Structures & Algorithms for S.Y. B.Tech Mechanical Engineering.
 
 ## 📖 What's Inside
-- **code/** — Python/C++/C examples.
+- **slides/** — Unit-wise PowerPoint presentations (and PDFs for easy viewing).
+- **code/** — Python/C++ examples from class.
 - **assignments/** — Practice problems.
 
 ## 🗂️ Units Covered
